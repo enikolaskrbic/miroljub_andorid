@@ -2,8 +2,6 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.annanow.android.shop.dev",
-    "sha256_cert_fingerprints":
-    ["35:AA:1E:B5:86:FB:9D:34:A2:DE:29:09:97:07:94:DF:41:70:17:A7:10:61:41:DF:C0:F3:B6:9B:4F:E5:F0:66"]
+    "package_name": "com.annanow.android.shop.dev"
   }
 }]
